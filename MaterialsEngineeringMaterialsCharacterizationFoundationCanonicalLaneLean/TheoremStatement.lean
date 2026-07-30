@@ -1,0 +1,10 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace MaterialsEngineeringMaterialsCharacterizationFoundationCanonicalLaneLean
+
+def MaterialsTheoremStatement : Prop :=
+  ∀ (A : AdmissibleClass), ConstrainedMaterialsClosure A
+
+end MaterialsEngineeringMaterialsCharacterizationFoundationCanonicalLaneLean
+end HautevilleHouse
